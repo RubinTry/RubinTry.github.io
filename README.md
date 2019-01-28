@@ -1,7 +1,7 @@
 # Android大神成长计划
 Android 工程师的框架搜集之路
 
-![android开发之路](https://wzlsz.github.io/android.png  "Android工程师的成长之路")
+![android开发之路](android.png  "Android工程师的成长之路")
 
 ***
 

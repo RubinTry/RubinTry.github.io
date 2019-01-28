@@ -17,7 +17,7 @@ Android 工程师的框架搜集之路
 ### [SuperVideoPlayer](https://github.com/wzlsz/SuperVideoPlayer)
 
 <br/>
-<br/>
+***
 <br/>
 
 ## [网络请求]
@@ -25,9 +25,27 @@ Android 工程师的框架搜集之路
 ### [okhttp](https://github.com/square/okhttp)
 
 <br/>
-<br/>
+***
 <br/>
 
 ## [图片加载]
 ### [Glide](https://github.com/bumptech/glide)
 ### [picasso](https://github.com/square/picasso)
+
+
+<br/>
+***
+<br/>
+
+## [异步处理]
+### [Rxjava](https://github.com/wzlsz/RxJava)
+### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+### [AsyncTask](https://www.jianshu.com/p/ee1342fcf5e7)
+
+<br/>
+***
+<br/>
+
+
+## [开源项目]
+### [TIMSDK(腾讯ImSdk的demo)](https://github.com/wzlsz/TIMSDK)

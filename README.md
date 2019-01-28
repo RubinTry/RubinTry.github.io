@@ -3,12 +3,17 @@ Android 工程师的框架搜集之路      最近更新:2019/01/28
 
 ![android开发之路](android.png  "Android工程师的成长之路")
 
+
+
 ***
 
 ## [UIj框架]
-### [腾讯QMUI快速开发框架(貌似里面啥都有的样子，包括网页、Android端、iOS端的UI)](https://qmuiteam.com/android/documents/)
-### [类似于web前端中的轮播控件](https://github.com/wzlsz/banner)
-### [GSYVideoPlayer视频播放组件](https://github.com/wzlsz/GSYVideoPlayer)
+<a href="https://qmuiteam.com">腾讯QMUI快速开发框架(貌似里面啥都有的样子，包括网页、Android端、iOS端的UI)</a>
+<br/>
+<a href="https://github.com/wzlsz/banner">类似于web前端中的轮播控件</a>
+<br/>
+<a href="https://github.com/wzlsz/GSYVideoPlayer">GSYVideoPlayer视频播放组件</a>
+<br/>
 ### [imui快速开发框架](https://github.com/wzlsz/aurora-imui)
 ### [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
 ### [DiscreteScrollView(一个有弹性的横向scrollView)](https://github.com/yarolegovich/DiscreteScrollView)

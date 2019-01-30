@@ -29,6 +29,7 @@ Android 工程师的框架搜集之路      最近更新:2019/01/30
 ## [网络请求]
 ### [Retrofit](https://github.com/square/retrofit)
 ### [okhttp](https://github.com/square/okhttp)
+### [volley(Google的亲儿子)](https://github.com/google/volley)
 
 <br/>
 
@@ -40,6 +41,7 @@ Android 工程师的框架搜集之路      最近更新:2019/01/30
 ## [图片加载]
 ### [Glide](https://github.com/bumptech/glide)
 ### [picasso](https://github.com/square/picasso)
+### [fresco](https://github.com/facebook/fresco)
 
 
 <br/>
@@ -62,5 +64,31 @@ Android 工程师的框架搜集之路      最近更新:2019/01/30
 
 
 
+## [本地存储]
+### [greenDao](https://github.com/wzlsz/greenDAO)
+
+
+<br/>
+
+***
+
+<br/>
+
+
+
 ## [开源项目]
 ### [TIMSDK(腾讯ImSdk的demo)](https://github.com/wzlsz/TIMSDK)
+### [tinkerDemo](https://github.com/wzlsz/tinkerpatch-easy-sample)
+
+
+<br/>
+
+***
+
+<br/>
+
+
+## [热更新系列]
+### [tinker(官网)](http://www.tinkerpatch.com/)
+### [tinker(Github)](https://github.com/Tencent/tinker)
+### [阿里hotfix(官网)](https://www.aliyun.com/product/hotfix)

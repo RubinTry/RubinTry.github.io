@@ -93,5 +93,17 @@ Android 工程师的框架搜集之路      最近更新:2019/01/30
 ### [tinker(Github)](https://github.com/Tencent/tinker)
 ### [阿里hotfix(官网)](https://www.aliyun.com/product/hotfix)
 
+
+
 ## [增量更新]
 ### [bugly增量更新](https://bugly.qq.com/docs/introduction/app-upgrade-introduction/?v=20180709165613)
+
+<br/>
+
+***
+
+<br/>
+
+## [其它工具]
+
+### [众所周知的汉字与拼音转换工具](https://github.com/promeG/TinyPinyin)

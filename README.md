@@ -1,5 +1,5 @@
 ﻿# Android大牛成长计划
-Android 工程师的框架钻研之路      最近更新:2019/03/28 12:42
+Android 架构师的成长之路      最近更新:2019/03/28 12:42
 
 ![android开发之路](android.png  "Android工程师的成长之路")
 
@@ -65,7 +65,7 @@ Android 工程师的框架钻研之路      最近更新:2019/03/28 12:42
 <br/>
 
 
-## [异步处理]
+## [响应式编程]
 ### [Rxjava](https://github.com/wzlsz/RxJava)
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 ### [AsyncTask](https://www.jianshu.com/p/ee1342fcf5e7)
@@ -80,7 +80,8 @@ Android 工程师的框架钻研之路      最近更新:2019/03/28 12:42
 
 ## [本地存储]
 ### [greenDao](https://github.com/wzlsz/greenDAO)
-
+### [sqlbrite(良心企业Square的又一开源项目，当你不想给用ContentProvider，只想简单监听SQLite表增删改的数据变更时可以试试它。DBExecutor android ORM数据库 1.使用了读写锁，支持多线程操作数据。 2.支持操作多个数据库 3.支持事务 4.缓存Sql，缓存表结构。)](https://github.com/square/sqlbrite)
+### [Hawk(一个快速和易用的键值对数据存储框架，支持AES加密，支持SharedPreferences或Sqlite存储，支持Gson解析。)](https://github.com/orhanobut/hawk)
 
 <br/>
 

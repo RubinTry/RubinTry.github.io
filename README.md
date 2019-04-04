@@ -1,7 +1,7 @@
-﻿# Android大牛成长计划
+﻿# Android大牛架构师成长计划
 Android 架构师的成长之路      最近更新:2019/04/04 11:13
 
-![android开发之路](android.png  "Android工程师的成长之路")
+![android开发之路](android.png  "Android架构师的成长之路")
 
 
 ***

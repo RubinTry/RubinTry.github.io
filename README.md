@@ -10,7 +10,8 @@ Android 架构师的成长之路      最近更新:2019/04/10 13:00
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [好文章推荐]
-### [RecyclerView性能优化](https://juejin.im/entry/58a3f4f62f301e0069908d8f)
+### [RecyclerView数据预取](https://juejin.im/entry/58a3f4f62f301e0069908d8f)
+### [RecyclerView性能优化](https://www.jianshu.com/p/aedb2842de30)
 ### [2019-04-04Android面试题](https://github.com/Moosphan/Android-Daily-Interview?tdsourcetag=s_pcqq_aiomsg)
 ### [ButterKnife的工作原理](https://bxbxbai.github.io/2016/03/12/how-butterknife-works/)
 ### [Android 给View设置圆角的一种新方式（反正我以前没用过）](https://panda912.com/2017/01/12/Android-L-%E4%BD%BF%E7%94%A8-ViewOutlineProvider-%E8%A3%81%E5%89%AA-View/)

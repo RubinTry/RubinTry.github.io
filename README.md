@@ -10,6 +10,7 @@ Android 架构师的成长之路      最近更新:2019/04/10 13:00
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [好文章推荐]
+### [Android时间下发机制](https://www.jianshu.com/p/38015afcdb58)
 ### [ScrollView嵌套RecyclerView的时候item显示不全的解决方案](https://blog.csdn.net/qq_24448923/article/details/76886936)
 ### [开机启动](https://blog.csdn.net/wangmx1993328/article/details/82898896)
 ### [RecyclerView数据预取](https://juejin.im/entry/58a3f4f62f301e0069908d8f)

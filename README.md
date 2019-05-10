@@ -15,6 +15,7 @@ Android 架构师的成长之路      最近更新:2019/05/10 12:40
 ### [Android事件下发机制](https://www.jianshu.com/p/38015afcdb58)
 ### [ScrollView嵌套RecyclerView的时候item显示不全的解决方案](https://blog.csdn.net/qq_24448923/article/details/76886936)
 ### [开机启动](https://blog.csdn.net/wangmx1993328/article/details/82898896)
+### [RecyclerView更好的数据刷新方案](https://blog.csdn.net/suyimin2010/article/details/79552782)
 ### [RecyclerView数据预取](https://juejin.im/entry/58a3f4f62f301e0069908d8f)
 ### [RecyclerView性能优化](https://www.jianshu.com/p/aedb2842de30)
 ### [部分面试题的回答](https://www.jianshu.com/p/afd0a19533af)

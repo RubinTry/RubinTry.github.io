@@ -35,7 +35,7 @@ Android 架构师的成长之路      最近更新:2019/05/10 12:40
 ***
 
 ## [UI组件及框架]
-### [腾讯QMUI快速开发框架(貌似里面啥都有的样子，包括网页、Android端、iOS端的UI)](https://qmuiteam.com/android/documents/)
+### [腾讯QMUI快速开发框架(貌似里面啥都有的样子，包括网页、Android端、iOS端的UI)](https://qmuiteam.com/)
 ### [类似于web前端中的轮播控件](https://github.com/wzlsz/banner)
 ### [GSYVideoPlayer视频播放组件](https://github.com/wzlsz/GSYVideoPlayer)
 ### [imui快速开发框架](https://github.com/wzlsz/aurora-imui)

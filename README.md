@@ -10,6 +10,7 @@ Android 架构师的成长之路      最近更新:2019/05/10 12:40
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [干货]
+### [人脸识别的主要实现思路](https://www.cnblogs.com/zhehan54/p/6727606.html)
 ### [Java泛型中E、T、K、V等的含义](https://blog.csdn.net/qq_36173526/article/details/80604210)
 ### [ButterKnife中的id转换(R2转R)工具](https://github.com/wzlsz/Utils/blob/master/RCaster.java)
 ### [在Android 系统中的Java设计模式](https://www.jianshu.com/p/bf92927c9d22)

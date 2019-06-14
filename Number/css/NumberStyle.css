@@ -1,0 +1,19 @@
+body{
+	position: relative;
+}
+.set{
+	width: 224px;
+	height: 21px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.result{
+	width: 173px;
+	height: 42px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: 100px auto;
+}

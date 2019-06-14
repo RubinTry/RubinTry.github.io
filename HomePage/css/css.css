@@ -1,0 +1,88 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	padding: 0;
+	margin: 0;
+	position: relative;
+	background-color: rgba(100,255,200,.2);
+}
+.clearfix::after{
+	content: "";
+	clear: both;
+	display: block;
+}
+ul{
+	padding: 0;
+	margin: 0;
+}
+/*header头部*/
+   header{
+	margin-top: 110px;
+	background-color: rgba(0,0,0,.3);
+	height: 45px;
+	position: relative;
+	/*margin-bottom: 40px;*/
+	/*top: 50px;*/
+}
+header .nav {
+	/*float: right;*/
+	/*border: 1px solid #fff;*/
+	width: 520px;
+	height: 45px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	list-style: none;
+}
+
+header .nav li {
+	float: left;
+	width: 105px;
+	height: 100%;
+	/*border: 1px solid #fff;*/
+	text-align: center;
+	margin-right: 20px;
+}
+
+header .nav li:last-child {
+	margin-right: 0;
+}
+
+header .nav li a {
+	/*font-size: 20px;*/
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+header .nav li a span {
+	display: block;
+	/*border: 1px solid #fff;*/
+	height: 44px;
+	padding-top: 10px;
+	transition: color, background-color .5s;
+}
+
+header .nav li:hover span {
+	color: rgba(0, 0, 0, .5);
+	background-color: #fff;
+}
+/*主体部分*/
+main{
+	position: relative;
+}
+main .logo{
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	/*border: 1px solid #000;*/
+	width: 270px;
+}
+main .logo img{
+	width: 100%;
+	height: auto;
+}

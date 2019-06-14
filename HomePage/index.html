@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Wzlsz's HomePage</title>
+		<link href="https://cdn.bootcss.com/normalize/7.0.0/normalize.min.css" rel="stylesheet">
+		<link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/myself.css"/>
+		<link rel="stylesheet" type="text/css" href="css/css.css"/>
+		<link rel="shortcut icon" href="img/logo.ico" />
+		<style type="text/css">
+			header .nav li:nth-child(3) a span{
+				background-color: transparent;
+				color: #fff;
+			}
+			header .nav li:nth-child(3):hover a span{
+				background-color: #fff;
+				color: rgba(0,0,0,.7);
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<ul class="nav">
+				<li><a href="#"><span>首页</span></a></li>
+				<li><a href="case.html"><span>案例</span></a></li>
+				<li><a href="personal.html"><span>个人</span></a></li>
+				<li><a href="music.html"><span>音乐</span></a></li>
+			</ul>
+		</header>
+		<main>
+			<!--logo-->
+			<div class="logo">
+				<a href="#"><img src="img/logo3.png"/></a>
+				
+			</div>
+			<!--轮番图显示框-->
+			<div class="TakeTurnsKuang">
+				<!--存放框-->
+				<div class="cunFang" id="cunFang">
+					<img src="img/photo/basketball.jpg"/>
+				    <img src="img/photo/code.jpg"/>
+				    <img src="img/photo/guitar.jpg"/>
+				</div>
+			</div>
+			<!--科目列表-->
+			<div class="study">
+				<h3>学习经历(请将鼠标移至图片上)</h3>
+			</div>
+			<ul class="subject clearfix">
+				<!--<h2>学习经历</h2>-->
+				<li>
+					<figure>
+						<img src="img/c.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/c%E8%AF%AD%E8%A8%80/105958?fr=aladdin" target="_blank"><h3>C语言</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/photoshop.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/Adobe%20Photoshop/2297297?fr=aladdin&fromid=133866&fromtitle=PHOTOSHOP" target="_blank"><h3>Photoshop</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/ubuntu.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/linux/27050?fr=aladdin" target="_blank"><h3>Linux操作系统</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/html.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/html5/4234903?fr=aladdin" target="_blank"><h3>Html</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/java.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/Java/85979?fr=aladdin" target="_blank"><h3>Java入门</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/css.png" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/CSS/5457?fr=aladdin" target="_blank"><h3>CSS</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/JavaScript.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/javascript/321142?fr=aladdin"target="_blank"><h3>JavaScript</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/Android.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/Android/60243?fr=aladdin" target="_blank"><h3>Android</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/SuperJava.jpg" alt="" />
+						<figcaption>
+							<a href="http://blog.csdn.net/column/details/sdksdk0-java.html" target="_blank"><h3>Java高级开发</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img src="img/UI.jpg" alt="" />
+						<figcaption>
+							<a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9E%8B%E8%AE%BE%E8%AE%A1/10787489?fr=aladdin" target="_blank"><h3>UI原型设计</h3></a>
+						</figcaption>
+					</figure>
+				</li>
+			</ul>
+		</main>
+		<footer>
+			<div class="footer">
+				<div class="copyright">
+					<p>&copy;&nbsp;&nbsp;&nbsp; 版权所属： Mr.LU 如有雷同，请把它写得更好^_^</p>
+				</div>
+			</div>
+		</footer>
+		<script type="text/javascript">
+			var oCunfang=document.getElementById("cunFang");
+			var oTime=window.setInterval("Run()",4000);
+			var pos=0;
+			function Run () {
+               if (pos ==-2560) {
+		          pos+=3840;
+	        }
+	            pos -= 1280;
+				oCunfang.style.transform="translate(" + pos + "px,0)";
+//				alert(pos);
+			}
+//			pos+=2400;
+		</script>
+	</body>
+</html>

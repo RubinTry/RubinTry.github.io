@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>wizard</title>
+		<style type="text/css">
+			body{
+				position: relative;
+				background-color: #000;
+			}
+			
+			.wrapper{
+				width: 478px;
+				height: 478px;
+				/*border: 1px solid #000;*/
+				position: absolute;
+				left: 0;
+				right: 0;
+				top: 750px;
+				bottom: 0;
+				margin: auto;
+				border-radius: 100%;
+				box-shadow: 0 0 200px 36px rgba(255,0,0,.5);
+			}
+			.big{
+				width: 102%;
+				height: 102%;
+				/*border: 1px solid #000;*/
+				position: absolute;
+				left: -5px;
+				right: 0;
+				top: 0px;
+				bottom: 0;
+				margin: auto;
+				border-radius: 100%;
+			}
+			.big img{
+				width: 100%;
+				height: auto;
+				transition: transform 1s;
+				
+			}
+			.middle{
+				width: 76%;
+				height: 76%;
+				/*border: 1px solid #000;*/
+				position: absolute;
+				left: 0;
+				right: 0;
+				top: 0px;
+				bottom: 0;
+				margin: auto;
+				border-radius:100% ;
+			}
+			.middle img{
+				width: 100%;
+				height: auto;
+				transition: transform 1s;
+			}
+			.small{
+				width: 55%;
+				height: 55%;
+				/*border: 1px solid #000;*/
+				position: absolute;
+				left: 0;
+				right: 0;
+				top: 0px;
+				bottom: 0;
+				margin: auto;
+				border-radius:100% ;
+			}
+			.small img{
+				width: 100%;
+				height: auto;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="big">
+			<img src="img/magicIII2.png"/>
+			<div class="middle">
+			<img src="img/magicII2.png"/>
+			<div class="small">
+			<img src="img/magicI2.png"/>
+		</div>
+		</div>
+		</div>
+		</div>
+		
+		
+		
+		<script type="text/javascript">
+			var oBig=document.querySelector(".big img");
+			var oMiddle=document.querySelector(".middle img");
+			var pos=0;
+			var posX;
+			setInterval(Retate,180);
+			function Retate () {
+				pos+=3;
+				posX=-pos;
+				oBig.style.transform="rotate("+pos+"deg)";
+				oMiddle.style.transform="rotate("+posX+"deg)";
+				
+				console.log(pos);
+                
+                clearInterval();
+			}
+		</script>
+	</body>
+</html>

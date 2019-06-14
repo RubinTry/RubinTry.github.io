@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style type="text/css">
+			.k{
+				border: 1px solid #000;
+				margin: 10px;
+				width: 100px;
+				height: 30px;
+				text-align: center;
+				line-height: 30px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+			<div class="k">abc</div>
+		</div>
+		<script type="text/javascript">
+			var oK=document.querySelectorAll(".k");
+			for (var i = 0; i < oK.length; i++) {
+				oK[i].addEventListener("click",function(event){
+					var event=event||window.event;
+					var target=event.target||event.srcElement;
+					event.target.innerHTML="abcdefg";
+				});
+			}
+		</script>
+	</body>
+</html>

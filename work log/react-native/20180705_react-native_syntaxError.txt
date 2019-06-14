@@ -1,0 +1,17 @@
+﻿React-Native报语法错误
+
+
+
+
+
+SyntaxError: Unexpected identifier
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:657:28)
+    at Module._compile (C:\Users\Administrator\Desktop\AwesomeProject\node_modules\pirates\lib\index.js:91:24)
+    at Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Object.newLoader [as .js] (C:\Users\Administrator\Desktop\AwesomeProject\node_modules\pirates\lib\index.js:96:7)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)

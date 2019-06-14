@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/NumberStyle.css"/>
+	</head>
+	<body>
+		<div class="set">
+			<input type="text" name="num" id="num"  />
+		    <input type="button" name="btn1" id="btn1" value="提交" />
+		</div>
+		
+		<!--<label for="#" id="result"></label>-->
+		<div class="result">
+			<!--剩余-->
+			<input type="text" name="times" id="times" value="6" />
+			<!--历史-->
+			<input type="text" name="result" id="result" placeholder="请输入一个数字"/>
+			<input type="button" name="reload" id="reload" value="重置" style="display: none;"/>
+		</div>
+		<script type="text/javascript">
+		    //下面第一行
+		    var oTrueNumber=Math.floor(Math.random()*10);
+			var oNum=document.getElementById("num");
+			var oBtn=document.getElementById("btn1");
+			var oHistory=document.querySelector(".result #result");
+			var oTime=document.getElementById("times");
+            var oReload=document.getElementById("reload");
+			oBtn.addEventListener('click',clickIt);
+			oReload.addEventListener('click',reload);
+			oTime.disabled="true";
+			function clickIt () {
+					if(oNum.value>oTrueNumber)
+				        oHistory.value="有点偏大";
+				    if(oNum.value<oTrueNumber)
+				        oHistory.value="有点偏小";
+				    if(oNum.value==oTrueNumber)
+				        oHistory.value="恭喜你，答对了！！！";
+				        oTime.value-=1;
+				    if(oNum.value=="")
+				        oHistory.value="你是智障吗？赶快给我个数！";
+				    if(!(oNum.value>="0"&&oNum.value<="9")){
+				        oHistory.value="输入有误，请重新输入";
+				        oTime.value++;
+				       }
+				    if(oTime.value==0)
+				        oReload.style.display="block";
+				    if(oTime.value<0){
+				    	oHistory.value="你的次数已用完";
+				    	oTime.value++;
+				    }
+				        
+			}
+			function reload () {
+				oTime.value="6";
+				
+			}
+		</script>
+	</body>
+</html>

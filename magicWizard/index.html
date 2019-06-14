@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style type="text/css">
+		    body{
+		    	position: relative;
+		    	background-color: #000;
+		    	overflow: hidden;
+		    }
+		    .wrapper{
+		    	width: 480px;
+		    	height: 480px;
+		    	/*border: 1px solid #fff;*/
+		    	box-shadow: 0 0 100px 18px rgba(255,0,0,.3);
+		    	border-radius: 100%;
+		    	position: absolute;
+				top: 800px;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				margin: auto;
+		    }
+			.big{
+				width: 500px;
+				height: 500px;
+				border-radius:100% ;
+				animation: around 20s forwards linear;
+				animation-iteration-count: infinite;
+				transform: rotate(0deg) ;
+				position: absolute;
+				top: 800px;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				margin: auto;
+			}
+			.big img{
+				width: 100%;
+				height: auto;
+				
+			}
+			.middle{
+				width: 380px;
+				height: 380px;
+				border-radius:100% ;
+				animation: rearound 20s forwards linear;
+				animation-iteration-count: infinite;
+				transform: rotate(0deg) ;
+				position: absolute;
+				top: 800px;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				margin: auto;
+			}
+			.middle img{
+				width: 100%;
+				height: auto;
+				
+			}
+			.small{
+				width: 220px;
+				height: 220px;
+				border-radius:100% ;
+				transform: rotate(0deg) ;
+				position: absolute;
+				top: 800px;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				margin: auto;
+			}
+			.small img{
+				width: 100%;
+				height: auto;
+				
+			}
+			@keyframes around{
+				0%{transform: rotate(0deg);}
+				100%{transform: rotate(200deg);}
+			}
+			@keyframes rearound{
+				0%{transform: rotate(0deg);}
+				100%{transform: rotate(-360deg);}
+			}
+		</style>
+	</head>
+	<body>
+		<div class="wrapper">
+			
+		</div>
+		<div class="big">
+			<img src="img/magicIII.png"/>
+		</div>
+		<div class="middle">
+			<img src="img/magicII2.png"/>
+		</div>
+		<div class="small">
+		<img src="img/magicI.png"/></div>
+	</body>
+</html>

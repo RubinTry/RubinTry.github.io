@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style type="text/css">
+			*{
+				padding: 0;
+				margin: 0;
+			}
+			.wrapper{
+				border: 1px solid #000;
+				width: 400px;
+				height: 80px;
+				/*position: relative;*/
+				overflow: hidden;
+			}
+			.wrapper .box{
+				width: 400px;
+				/*height: 80px;*/
+				/*border: 1px solid #000;*/
+				
+			}
+			.wrapper li{
+				text-align: center;
+				height: 40px;
+				line-height: 40px;
+				/*border: 1px solid #000;*/
+			}
+		</style>
+	</head>
+	<body>
+		<div class="wrapper">
+			<ul class="box">
+				<li>内容1</li>
+				<li>内容2</li>
+				<li>内容3</li>
+				<li>内容4</li>
+			</ul>
+		</div>
+		
+		<script type="text/javascript">
+			var oBox=document.querySelector(".wrapper");
+			setInterval(scrol,2000);
+			function scrol () {
+				oBox.scrollTop+=20;
+				console.log(oBox.scrollTop)
+				if(oBox.scrollTop==80)
+				oBox.scrollTop=0;
+			}
+//          console.log(oBox.scrollTop);
+		</script>
+	</body>
+</html>

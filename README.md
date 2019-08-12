@@ -9,7 +9,8 @@ Android 架构师的成长之路      最近更新:2019/05/10 12:40
 ## [开放的网络接口]
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
-## [干货]
+## [干货以及踩过的坑的解决方法]
+### [在自定义Dialog中使用fragment后报not attached to a context的解决方法](https://www.jianshu.com/p/245d4134db12)
 ### [Android Studio代理清除无效的解决方案](https://blog.csdn.net/weixin_34258782/article/details/87293327)
 ### [人脸识别的主要实现思路](https://www.cnblogs.com/zhehan54/p/6727606.html)
 ### [Java泛型中E、T、K、V等的含义](https://blog.csdn.net/qq_36173526/article/details/80604210)

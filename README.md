@@ -10,6 +10,7 @@ Android 架构师的成长之路      最近更新:2019/05/10 12:40
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [干货以及踩过的坑的解决方法]
+### [小米手机调试总出现“INSTALL_CANCELED_BY_USER”](https://blog.csdn.net/submit66/article/details/54096459)
 ### [Viewpager2 ， 真香，可以用一句话关闭预加载](https://juejin.im/post/5cda3964f265da035d0c9d8f)
 ### [在自定义Dialog中使用fragment后报not attached to a context的解决方法](https://www.jianshu.com/p/245d4134db12)
 ### [Android Studio代理清除无效的解决方案](https://blog.csdn.net/weixin_34258782/article/details/87293327)

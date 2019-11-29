@@ -1,5 +1,5 @@
 ﻿# Android大牛架构师成长计划
-Android 架构师的成长之路      最近更新:2019/09/30 13:20
+Android 架构师的成长之路      最近更新:2019/11/29 15:30
 
 ![android开发之路](android.png  "Android架构师的成长之路")
 
@@ -10,6 +10,7 @@ Android 架构师的成长之路      最近更新:2019/09/30 13:20
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [干货以及踩过的坑的解决方法]
+### [Android照片旋转的问题以及解决方案](https://www.jianshu.com/p/95cd95e961d7)
 ### [小米手机调试总出现“INSTALL_CANCELED_BY_USER”](https://blog.csdn.net/submit66/article/details/54096459)
 ### [Viewpager2 ， 真香，可以用一句话关闭预加载](https://juejin.im/post/5cda3964f265da035d0c9d8f)
 ### [在自定义Dialog中使用fragment后报not attached to a context的解决方法](https://www.jianshu.com/p/245d4134db12)

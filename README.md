@@ -10,7 +10,7 @@ Android 架构师的成长之路      最近更新:2019/12/04 15:30
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [干货以及踩过的坑的解决方法]
-### [侧滑菜单点击穿透到下面的界面如何解决？](https://blog.csdn.net/yonghuming_jesse/article/details/79867353)
+### [侧滑菜单点击穿透到下面的界面如何解决？] 手动将菜单部分的根布局的clickable属性设置为true
 ### [Android照片旋转的问题以及解决方案](https://www.jianshu.com/p/95cd95e961d7)
 ### [小米手机调试总出现“INSTALL_CANCELED_BY_USER”](https://blog.csdn.net/submit66/article/details/54096459)
 ### [Viewpager2 ， 真香，可以用一句话关闭预加载](https://juejin.im/post/5cda3964f265da035d0c9d8f)

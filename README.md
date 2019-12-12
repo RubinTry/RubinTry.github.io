@@ -10,6 +10,7 @@ Android 架构师的成长之路      最近更新:2019/12/04 15:30
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [干货以及踩过的坑的解决方法]
+### [下拉放大效果的实现（与下拉刷新类似）](https://www.jianshu.com/p/5c4c3e610ecf)
 ### [DrawerLayout侧滑布局点击不响应事件](https://blog.csdn.net/chen364567628/article/details/87869323)
 ### [侧滑菜单点击穿透到下面的界面如何解决？] 手动将菜单部分的根布局的clickable属性设置为true
 ### [Android照片旋转的问题以及解决方案](https://www.jianshu.com/p/95cd95e961d7)

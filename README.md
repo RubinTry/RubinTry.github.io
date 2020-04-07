@@ -12,6 +12,7 @@ Android 架构师的成长之路      最近更新:2019/12/04 15:30
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)
 
 ## [干货以及踩过的坑的解决方法]
+###[线程Thread中无法创建handler的解决方法](https://blog.csdn.net/weixin_42694582/article/details/81535083)
 ###[解决多次add fragment，属性fitsSystemWindows无效的问题](https://blog.csdn.net/angrysword/article/details/89684914)
 ###[nestScrollView底部留白的问题](https://www.jianshu.com/p/cb009f0b4a0f)
 ### [CoordinatorLayout实现标题栏伸缩、渐变等效果](https://segmentfault.com/a/1190000015340856)

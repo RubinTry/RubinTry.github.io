@@ -7,6 +7,7 @@ Android 架构师的成长之路      最近更新:2019/12/04 15:30
 ***
 
 ## [开放的网络接口]
+###[安卓自带TTS语音合成](https://www.jianshu.com/p/fe8edfd8868f)
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)

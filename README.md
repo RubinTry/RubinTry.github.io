@@ -13,6 +13,7 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)
 
 ## [干货以及踩过的坑的解决方法]
+### [针对ButterKnife等众多框架，用annotationProcessor关键字引入注解处理器时，需要注意项目是否支持kotlin，如果支持，则需使用kapt关键字来引入]
 ### [增量注解解释器，EventBus用的那个](https://github.com/tbroyer/gradle-incap-helper)
 ### [viewpager过渡动画--PagerTransformer实现](https://www.jianshu.com/p/6b535cbf13b7)
 ### [Fragment实现共享元素切换，返回上一个fragment时无法出现动画效果的解决方案](https://codeleading.com/article/4475620989/)

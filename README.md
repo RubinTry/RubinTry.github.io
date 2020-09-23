@@ -7,6 +7,7 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ***
 
 ## [开放的网络接口]
+### [More than one file was found with OS independent path 'lib/armeabi/xxxx.so'解决方法](https://blog.csdn.net/gengkui9897/article/details/88928584)
 ### [安卓自带TTS语音合成](https://www.jianshu.com/p/fe8edfd8868f)
 ### [玩Android Api](https://www.wanandroid.com/blog/show/2)
 

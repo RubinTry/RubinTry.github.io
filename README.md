@@ -14,6 +14,7 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)
 
 ## [干货以及踩过的坑的解决方法]
+### [环形进度条UI库](https://github.com/lzyzsd/CircleProgress)
 ### [第三方相册访问库](https://github.com/LuckSiege/PictureSelector/blob/master/README_CN.md)
 ### [安装包立减1M--微信Android资源混淆打包工具](https://mp.weixin.qq.com/s/6YUJlGmhf1-Q-5KMvZ_8_Q)
 ### [Fragment在执行完onDestroyView后，视图仍存在的问题（会因此引起内存泄漏，需要重视），解决方案：1.手动重置为null 2.如果想方便些，建议使用ButterKnife等依赖注入框架]

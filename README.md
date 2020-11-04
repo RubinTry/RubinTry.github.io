@@ -17,6 +17,7 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)
 
 ## [干货以及踩过的坑的解决方法]
+### [EditText获取到焦点但不显示光标的解决方法](https://www.jianshu.com/p/fec085e7f4a6)
 ### [Android Studio 4.1 代码无错误提示（警告、报红等）](https://www.jianshu.com/p/50831d273477)
 ### [环形进度条UI库](https://github.com/lzyzsd/CircleProgress)
 ### [第三方相册访问库](https://github.com/LuckSiege/PictureSelector/blob/master/README_CN.md)

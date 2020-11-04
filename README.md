@@ -17,6 +17,7 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)
 
 ## [干货以及踩过的坑的解决方法]
+### [Android Studio 4.1 代码无错误提示（警告、报红等）](https://www.jianshu.com/p/50831d273477)
 ### [环形进度条UI库](https://github.com/lzyzsd/CircleProgress)
 ### [第三方相册访问库](https://github.com/LuckSiege/PictureSelector/blob/master/README_CN.md)
 ### [安装包立减1M--微信Android资源混淆打包工具](https://mp.weixin.qq.com/s/6YUJlGmhf1-Q-5KMvZ_8_Q)

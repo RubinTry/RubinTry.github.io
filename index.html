@@ -1,1 +1,29 @@
-Hello World
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Wzlsz's HomePage</title>
+</head>
+<body>
+<header>
+
+</header>
+<main>
+
+</main>
+<footer>
+    <div class="footer">
+        <div class="copyright">
+            <p>&copy;&nbsp;&nbsp;&nbsp; 版权所属： Mr.LU 如有雷同，请把它写得更好^_^</p>
+        </div>
+    </div>
+</footer>
+<script src="./Static/js/lib/jquery.min.js"></script>
+<script src="./Static/js/lib/marked.min.js"></script>
+<script>
+    $.get('../README.md', function(response, status, xhr){
+        $("#content").html(marked(response));
+    });
+</script>
+</body>
+</html>

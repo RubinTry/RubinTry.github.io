@@ -33,7 +33,6 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ### [线程Thread中无法创建handler的解决方法](https://blog.csdn.net/weixin_42694582/article/details/81535083)
 ### [解决多次add fragment，属性fitsSystemWindows无效的问题](https://blog.csdn.net/angrysword/article/details/89684914)
 ### [nestScrollView底部留白的问题](https://www.jianshu.com/p/cb009f0b4a0f)
-### [CoordinatorLayout实现标题栏伸缩、渐变等效果](https://segmentfault.com/a/1190000015340856)
 ### [下拉放大效果的实现（与下拉刷新类似）](https://www.jianshu.com/p/5c4c3e610ecf)
 ### [DrawerLayout侧滑布局点击不响应事件](https://blog.csdn.net/chen364567628/article/details/87869323)
 ### [侧滑菜单点击穿透到下面的界面如何解决？] 手动将菜单部分的根布局的clickable属性设置为true

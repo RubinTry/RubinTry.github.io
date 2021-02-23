@@ -17,6 +17,7 @@ Android 牛X架构师的成长之路      最近更新:2019/12/04 15:30
 ## [Centos7 ss服务器搭建](https://www.cnblogs.com/foreversun/p/6592426.html)
 
 ## [干货以及踩过的坑的解决方法]
+### [一个还不错的组件化学习项目，重点：组件化项目的构建、ARouter的使用](https://github.com/1170762202/WanAndroid)
 ### [神器，一个能够使好几个常用控件支持惯性回弹、惯性滑动的helper库]（https://github.com/RubinTry/overscroll-decor）
 ### [仿QQ（老版本的QQ）侧滑菜单，通过手势自动联动滑动](https://www.jianshu.com/p/432780e4749a)
 ### [EditText获取到焦点但不显示光标的解决方法](https://www.jianshu.com/p/fec085e7f4a6)
